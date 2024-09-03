@@ -27,10 +27,10 @@ __Read or watch:__
 - [Mocha documentation](https://mochajs.org/)
 - [Nodemon documentation](https://github.com/remy/nodemon#nodemon)
 - [MongoDB](https://github.com/mongodb/node-mongodb-native)
-  - [Bull](https://github.com/OptimalBits/bull)
-  - [Image thumbnail](https://www.npmjs.com/package/image-thumbnail)
-  - [Mime-Types](https://www.npmjs.com/package/mime-types)
-  - [Redis](https://github.com/redis/node-redis)
+- [Bull](https://github.com/OptimalBits/bull)
+- [Image thumbnail](https://www.npmjs.com/package/image-thumbnail)
+- [Mime-Types](https://www.npmjs.com/package/mime-types)
+- [Redis](https://github.com/redis/node-redis)
 
 ## Learning Objectives
 
