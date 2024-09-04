@@ -4,8 +4,8 @@ import dbClient from "../utils/db";
 
 describe("+ UserController", () => {
   const mockUser = {
-    email: "beloxxi@blues.com",
-    password: "melody1982",
+    email: "harry@potter.com",
+    password: "potter1441",
   };
 
   // Clear the database before running the tests
