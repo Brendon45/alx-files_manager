@@ -14,3 +14,5 @@ class AppController {
     res.status(200).json({ users, files });
   }
 }
+
+module.exports = AppController;
